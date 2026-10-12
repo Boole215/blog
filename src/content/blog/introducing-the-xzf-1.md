@@ -2,6 +2,7 @@
 title: 'Introducing the XZF-1 — First Dev Log'
 description: 'The first step(s) in creating my visual instrument'
 pubDate: 'Sep 07 2026'
+tags: ["dev"]
 ---
 
 I have my (small) collection of glitch equipment that I use for my glitch art, but it's recently come to my attention that I don't _really_ need so many. That, and the NTSC standard has physical limitations specified such that those signal segments can only be distorted so much until they're unintelligible. So there's a limited number of ways that glitch equipment can mess with NTSC signals while still outputting visuals and not noise. And I got to thinking, well why not design my piece of hardware that uses an FPGA as the underlying hardware? So now I've begun building the XZF-1, named after the handle I post my art under.
